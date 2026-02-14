@@ -27,7 +27,7 @@ Follow these steps to get the project running on your own machine.
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/naham6/sarcastic-tutor.git](https://github.com/naham6/sarcastic-tutor.git)
+git clone [https://github.com/naham6/sarcastic-tutor.git]
 cd sarcastic-tutor
 ```
 
