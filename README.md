@@ -2,7 +2,7 @@
 
 > *An AI-powered coding assistant that helps you learn Python... while roasting.*
 
-Built with **Google Gemini 2.5 Flash**, **FastAPI**, and **Streamlit**.
+Built with **FastAPI**, and **Streamlit**.
 
 ---
 
